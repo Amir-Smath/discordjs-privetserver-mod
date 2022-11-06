@@ -2,7 +2,7 @@
 Discord Project| This bot is for managing private servers
 
 # Main-configs.json
-```
+```ps
 {
     "token": "",
     "prefix": "",
