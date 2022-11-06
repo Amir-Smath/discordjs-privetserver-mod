@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^13.9.2",
+    "quick.db": "^9.0.6"
+  },
+  "name": "mod-client",
+  "version": "1.0.0",
+  "description": "coded by Amir Smath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

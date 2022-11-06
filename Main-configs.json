@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "prefix": "",
+    "voiceconnect": "",
+    "developerid": "",
+    "guildname": "",
+
+    "welcomechannel": "",
+    "verifylog": "",
+    "banlog": "",
+
+    "notverify": "",
+    "memberole": "",
+    "adminrole": [
+        ""
+    ]
+}
